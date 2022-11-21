@@ -1,0 +1,258 @@
+body {
+    background-color: aquamarine;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.head {
+    border: 2px outset red;
+
+    width: 99.7%;
+    height: 150px;  
+}
+
+.imgHTML {
+    border: 1px outset transparent;
+    float: left;
+    
+    margin-top: 11px;
+}
+
+.hyper {
+    font-size: 60px;
+    float: left;
+
+    padding-left: 45px;
+    padding-top: 39px;
+}
+
+.hyperYT {
+    color: red;
+    float: left;
+    border: 2px outset red;
+
+    margin-right: 40px;
+}
+
+.hyperFB {
+    color: blue;
+    float: left;
+    border: 2px outset blue;
+
+    margin-right: 40px;
+}
+
+.hyperIG {
+    color: purple;
+    float: left;
+    border: 2px outset purple;
+
+    margin-right: 40px;
+}
+
+.hyperWA {
+    color: green;
+    float: left;
+    border: 2px outset green;
+}
+
+.search {
+    border: 1px outset transparent;
+    float: left;
+    font-size: 25px;
+
+    margin-top: 20px;
+}
+
+.search input, button {
+    font-size: 20px;
+}
+
+.logo {
+    float: left;
+    border: 2px outset black;
+    width: 98.9%;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+
+    margin-top: 20px;
+}
+
+.logoYT {
+    border: 2px outset red;
+
+    width: 200px;
+    height: 100px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-left: 60px;
+    margin-right: 65px;
+}
+
+.logoFB {
+    border: 2px outset blue;
+
+    width: 200px;
+    height: 100px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-right: 65px;
+}
+
+.logoIG {
+    border: 2px outset purple;
+
+    width: 200px;
+    height: 100px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-right: 65px;
+}
+
+.logoWA {
+    border: 2px outset green;
+
+    width: 200px;
+    height: 100px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.word {
+    float: left;
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+.lorem1 {
+    border: 2px outset blue;
+    float: left; 
+
+    width: 48.5%; 
+    
+    padding-left: 10px;
+}
+
+.lorem2 {
+    border: 2px outset blue;
+    float: right; 
+
+    width: 48.5%; 
+    
+    padding-left: 10px;
+}
+
+.lorem3 {
+    border: 2px outset blue; 
+    float: left;
+
+    font-size: 20px;
+    
+    margin-top: 20px;      
+    
+    padding-left: 10px;
+}
+
+.page {
+    border: 2px outset blue;
+    float: left;
+
+    font-size: 20px;
+
+    width: 99.7%;
+    height: 720px;
+
+    margin-top: 20px;
+
+}
+
+.kiri {
+    border: 2px outset red;
+    float: left;
+
+    width: 30%;
+    height: 700px;
+
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.tengah {
+    border: 2px outset red;
+    float: left;
+
+    width: 30%;
+    height: 700px;
+
+    margin-top: 10px;
+    margin-left: 32px;
+}
+
+.kanan {
+    border: 2px outset red;
+    float: right;
+
+    width: 30%;
+    height: 700px;
+
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+.container1, .container2, .container3, 
+.container4, .container5, .container6, 
+.container7, .container8, .container9 {
+    border: 2px outset purple;
+    float: left;
+
+    width: 350px;
+    height: 217px;
+
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.imgGoogle {
+    border: 1px outset transparent;
+    float: left;
+
+    width: 80px;
+    height: 80px;
+}
+
+.kata {
+    border: 1px outset transparent;
+    float: left;
+
+    margin-left: 5px;
+}
+
+.hyper2 {
+    border: 1px outset transparent;
+    float: left;
+    
+    color: red;
+
+    margin-left: 5px;
+}
